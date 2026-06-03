@@ -1,5 +1,5 @@
 1.Data Understanding
-The dataset contains transactional information related to products, outlets, sales, visibility, ratings, and establishment years. It includes over 8,500 records covering multiple outlet locations and product categories.
+   The dataset contains transactional information related to products, outlets, sales, visibility, ratings, and establishment years. It includes over 8,500 records covering     multiple outlet locations and product categories.
 
 2. Data Cleaning & Preparation
 Data preprocessing was performed to improve data quality by handling inconsistent values, standardizing categorical variables, validating data types, and preparing the dataset for analysis. This ensured accurate reporting and reliable business insights.
